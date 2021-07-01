@@ -1,19 +1,30 @@
-# Jekyll Example
+Agency Jekyll theme
+====================
 
-This directory is a brief example of a [Jekyll](https://jekyllrb.com/) site that can be deployed with Vercel and zero configuration.
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-## Deploy Your Own
+# How to use
 
-Deploy your own Jekyll project with Vercel.
+###Portfolio 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/main/examples/jekyll)
+Portfolio projects are in '/_posts'
 
-_Live Example: https://jekyll.now-examples.now.sh_
+Images are in '/img/portfolio'
 
-### How We Created This Example
+###About
 
-To get started with Jekyll for deployment with Vercel, you can use the [Jekyll CLI](https://jekyllrb.com/docs/usage/) to initialize the project:
+Images are in '/img/about/'
 
-```shell
-$ jekyll new my-blog
-```
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
+
+
+# Demo
+
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)
